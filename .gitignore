@@ -1,0 +1,18 @@
+# --- Python---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- venv ---
+venv/
+env/
+.env
+
+# --- IDE ---
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# --- OS Junk ---
+Thumbs.db
